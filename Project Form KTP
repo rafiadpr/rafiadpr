@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Form KTP</title>
+</head>
+<body>
+    <h2>FORMULIR PERMOHONAN KARTU TANDA PENDUDUK (KTP) WARGA NEGARA INDONESIA</h2>
+    <form action="/action_page.php">
+        <p> Perhatian : <br></p> 
+        <ol>
+            <li>Harap diisi dengan huruf kapital dan dengan data yang sesuai</li>
+            <li>Untuk kolom pilihan, harap dip</li>
+            <li>blalalalal</li>
+        </ol><br>
+        
+        <label for="provinsi">PEMERINTAHAN PROVINSI : </label><br>
+        <input type="text" id="provinsi" name="provinsi" value=""><br><br>
+        <label for="kab/kota">PEMERINTAHAN KABUPATEN/KOTA : </label><br>
+        <input type="text" id="kab/kota" name="kab/kota" value=""><br><br>
+        <label for="kec">KECAMATAN : </label><br>
+        <input type="text" id="kec" name="kec" value=""><br><br>
+        <label for="kel/desa">KELURAHAN/DESA : </label><br>
+        <input type="text" id="kel/desa" name="kel/desa" value=""><br><br>
+
+        <select id="permohonan ktp">
+            <option value="pilih">Silahkan Pilih Permohonan KTP</option>
+            <option value="r1">Baru</option>
+            <option value="r2">Perpanjangan</option>
+            <option value="r2">Penggantian</option>
+        </select><br><br><br><br>
+
+        <label for="fname">Nama Lengkap : </label><br>
+        <input type="text" id="fname" name="fname" value=""><br><br>
+        <label for="fname">No KK : </label><br>
+        <input type="text" id="email" name="email" value=""><br><br>
+        <label for="NIK">NIK : </label><br>
+        <input type="text" id="nik" name="nik" value=""><br><br>
+        <label for="NISN">Alamat : </label><br>
+        <input type="text" id="nisn" name="nisn" value=""><br><br>
+
+        <select id="Jenis Kelamin">
+            <option value="pilih">Pilih Jenis Kelamin </option>
+            <option value="cewe">Laki - Laki</option>
+            <option value="cowo">Perempuan</option>
+        </select><br><br>
+
+        <label for="myfile">Silahkan Pilih Foto Anda :</label><br>
+        <input type="file" id="myfile" name="myfile"><br><br><br><br>
+        <input type="submit" value="Submit">
+    </form>
+    <p>If you click the "Submit" button, the form-data will be sent to a page called "/action_page.php".</p>
+</body>
+</html>
