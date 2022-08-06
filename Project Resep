@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Resep Maryam</title>
+</head>
+<body>
+    <h3 align="center">Resep Kue Maryam</h3><hr>
+    <img src="image/maryam.jpg" alt="maryam" width="150" height="150" align="right">
+    <ul>
+        <li>250 gr tepung terigu </li>
+        <li>1 butir telur</li>
+        <li>3 sdm margarin, lelehkan</li>
+        <li>100 ml air hangat</li>
+        <li>2 sdm susu bubuk (opsional)</li>
+        <li>1/2 sdt garam</li>
+        <li>margarin leleh untuk olesan</li>
+        <li>minyak untuk merendam</li>
+    </ul>
+    <hr>
+    <h2>Langkah - Langkah</h2>
+    <ol>
+        <li>Campur semua roti menjadi satu</li>
+        <img src="image/ini satu.jpeg" alt="langkah satu" width="150" height="150">
+        <li>Aduk adonan menggunakan tangan hingga halus</li>
+        <img src="image/ini dua.jpeg" alt="langkah dua" width="150" height="150">
+        <li>Adonan siap dibentuk menjadi maryam</li>
+        <img src="image/ini tiga.jpeg" alt="langkah tiga" width="150" height="150">
+    </ol>
+</body>
+</html>
