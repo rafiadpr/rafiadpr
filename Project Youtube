@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Youtube (Replica)</title>
+</head>
+
+<body style="background-color: rgb(255, 255, 255);">
+    <img src="images/YouTube-Logo.wine (1).png" alt="logo_youtube" width="150" height="100"><br><br>
+<div>
+    <span style="margin:300px; margin-top: -150px;" >
+      <input class="search-input" type="search" placeholder="Search" aria-label="Search" style="width:50%"/>
+      <button type="submit" class="search-btn"><img src="images/searchicon_1.png" /></button>
+    </span></div>
+    <hr>
+    <iframe width="1000" height="530" src="https://www.youtube.com/embed/a1Jm7_Wel9A">
+    </iframe>
+
+
+    <img src="images/Screenshot 2022-08-04 092728_1.jpg" alt="thumbnail1" width="370" height="95" align="right"
+        style="margin-right: 500px;">
+    <div>
+        <img src="images/Screenshot 2022-08-04 093505_1.jpg" alt="thumbnail2" width="370" height="95" align="right"
+            style="margin-right: 500px; margin-top: -430px;">
+    </div>
+    <div>
+        <img src="images/Screenshot 2022-08-04 093523_1.jpg" alt="thumbnail3" width="370" height="95" align="right"
+            style="margin-right: 500px; margin-top: -320px;">
+    </div>
+    <div>
+        <img src="images/Screenshot 2022-08-04 093537_1.jpg" alt="thumbnail4" width="370" height="95" align="right"
+            style="margin-right: 500px; margin-top: -210px;">
+    </div>
+    <div>
+        <img src="images/Screenshot 2022-08-04 093523_1.jpg" alt="thumbnail5" width="370" height="95" align="right"
+            style="margin-right: 500px; margin-top: -100px;">
+    </div>
+    <p>Denise Julia - NVMD (Lyrics)</p>
+    <p>490.183 x ditonton - 4 Mei 2022</p><hr>
+    <img src="images/unnamed.jpg" alt="profil uploader">
+    <p align="left" style="margin-top: -50px; margin-left: 60px;">Video Lyrics <br> 700rb Subscriber</p>
+    <p>Denise Julia - NVMD lyrics 
+        Lyrics Denise Julia - NVMD<br>
+        Hit that subscribe button so you don't miss a thing!<br>
+        
+        🎙️ Lyrics Denise Julia - NVMD <br><br>
+        It's been 45 minutes you been blowing my phone<br>
+        I mean, shit, situation is outta control<br>
+        My bad, I been so fired up in here<br>
+        So when the coast is clear<br>
+        I'm moving far out of reach<br><br>
+        
+        What I got on my mind<br>
+        Is that I'm hurt and you like it<br>
+        This ain't chess I ain't no side piece<br><br>
+        
+        But I bet you're too upset to even notice<br>
+        I been trying hard to keep us floating<br>
+        You wouldn't mind if I rewind it<br>
+        This shit got me pretty honest<br>
+        And I'm tired of being open<br>
+        'Cause we keep on going back to where we started<br><br>
+        
+        Never mind I said I wish you'd mind<br><br>
+        
+        Never mind I said I wish you'd mind<br>
+        Putting you past so we can't rewind<br>
+        If I end up with you one more time<br>
+        Then I guess you're my favorite crime<br><br>
+        
+        That's right<br>
+        I'm out<br>
+        But that's fine<br>
+        Cause I'm back to<br>
+        Lying when I said I wish you'd mind<br>
+        Putting you past so we can't rewind<br><br>
+        
+        Never mind I'll miss you<br>
+        Before I kiss you<br>
+        This song on repeat then reminisce you<br>
+        I don't get the issue<br>
+        Of being untrue baby<br><br>
+        
+        When it all comes down I'm still up, waiting, wasting my breath<br>
+        No, never get rest out of my impatience<br>
+        Used to you I don't know if I can repent<br><br>
+        
+        But I bet you're too upset to even notice<br>
+        I been trying hard to keep us floating<br>
+        You wouldn't mind if I rewind it<br>
+        This shit got me pretty honest<br>
+        And I'm tired of being open<br>
+        'Cause we keep on going back to where we started<br><br>
+        
+        But never mind I said I wish you'd mind<br><br>
+        
+        Never mind I said I wish you'd mind<br>
+        Putting you past so we can't rewind<br>
+        If I end up with you one more time<br>
+        Then I guess you're my favorite crime<br><br>
+        
+        That's right<br>
+        I'm out<br>
+        But that's fine<br>
+        Cause I'm back to<br>
+        Lying when I said I wish you'd mind<br>
+        Putting you past so we can't rewind<br><br>
+        
+        Oh, back to where we started<br>
+        Back to where we started, oh<br>
+        Oh, back to when<br>
+        Never mind I said I wish you'd mind<br>
+        Putting you past so we can't rewind<br>
+    </p>
+</body>
+
+</html>
