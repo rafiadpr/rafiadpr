@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        audio { width: 100%; }
+    </style>
+    <title>Spotify (Replica)</title>
+</head>
+<body style="background-color: rgb(53, 55, 50);">
+    <img src="images/Spotify_Logo_RGB_Green.png" alt="logo_spotify" width="152" height="46"><br><br><br>
+    <img src="images/logo bestfriend.jpg" alt="logo_lagu" align="left" width="100" height="100">
+    <p align="left"style="color: rgb(255, 255, 255);">Best Friend</p>
+    <p align="left"style="color: rgb(255, 255, 255);">Rex Orange County</p>
+    <br><br>
+    <img src="images/logo good4u.jpg" alt="logo_lagu" align="left" width="100" height="100">
+    <p align="left"style="color: rgb(255, 255, 255);">good 4 u</p>
+    <p align="left"style="color: rgb(255, 255, 255);">Olivia Rodrigo</p>
+    <br><br>
+    <img src="images/logo untilifoundu.jpg" alt="logo_lagu" align="left" width="100" height="100">
+    <p align="left"style="color: rgb(255, 255, 255);">Until I Found You</p>
+    <p align="left"style="color: rgb(255, 255, 255);">Stephen Sanchez, Em Beihold</p>
+    <br><br>
+    <img src="images/logo wishuwerehere.jpg" alt="logo_lagu" align="left" width="100" height="100">
+    <p align="left"style="color: rgb(255, 255, 255);">Wish You Were Here</p>
+    <p align="left"style="color: rgb(255, 255, 255);">Neck Deep</p>
+    <br><br>
+    <br><br><br><br><br><br><br><br><br>
+    <img src="images/logo honey.jpg" alt="logo_lagu" align="left" width="100" height="100">
+    <br><h3 align="left" style="color: rgb(255, 255, 255);">honey</h3>
+    <h3 align="left" style="color: rgb(255, 255, 255);">Boy Pablo</h3>
+    <audio controls>
+        <source src="audio/boy-pablo-honey-Lyrics_8j2y2Drd59k.mp3" type="audio/mp3">
+    </audio>
+    
+</body>
+</html>
