@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dasa Darma</title>
+</head>
+<body>
+    <br> <img src="images.jpg" align="right" width="200" height="200"> </br>
+    <h1 style="color: rgb(76, 136, 206)" align="center">DASA DARMA</h1>
+    <h2 style="color: rgb(93, 196, 153) ">1. Takwa kepada Tuhan Yang Maha Esa</h2>
+    <h2 style="color: rgb(93, 196, 153) ">2. Cinta Alam dan Kasih Sayang Sesama Manusia</h2>
+    <h2 style="color: rgb(93, 196, 153) ">3. Patriot yang Sopan dan Kesatria</h2>
+    <h2 style="color: rgb(93, 196, 153) ">4. Patuh dan Suka Bermusyawarah</h2>
+    <h2 style="color: rgb(93, 196, 153) ">5. Rela Menolong dan Tabah</h2>
+    <h2 style="color: rgb(93, 196, 153) ">6. Rajin, Terampil, dan Gembira</h2>
+    <h2 style="color: rgb(93, 196, 153) ">7. hemat, Cermat, dan Bersahaja</h2>
+    <h2 style="color: rgb(93, 196, 153) ">8. Disiplin, Berani, dan Setia</h2>
+    <h2 style="color: rgb(93, 196, 153) ">9. Bertanggung Jawab dan Dapat Dipercaya</h2>
+    <h2 style="color: rgb(93, 196, 153) ">10. Suci dalam Pikiran, Perkataan, dan Perbuatan</h2>
+</body>
+</html>
